@@ -1,4 +1,4 @@
-FOLDER_NAME="1201"
+FOLDER_NAME="1614. Maximum Nesting Depth of the Parentheses"
 
 mkdir "$FOLDER_NAME" && cat > "$FOLDER_NAME/README.md" <<EOF
 # $FOLDER_NAME
