@@ -1,9 +1,14 @@
-FOLDER_NAME="1614. Maximum Nesting Depth of the Parentheses"
+FOLDER_NAME="Wave Array"
 
-mkdir "$FOLDER_NAME" && cat > "$FOLDER_NAME/README.md" <<EOF
+cd Array+Strings && mkdir "$FOLDER_NAME" && cat > "$FOLDER_NAME/README.md" <<EOF
 # $FOLDER_NAME
 
 ## Code
+\`\`\`text
+
+
+\`\`\`
+
 
 \`\`\`python
 # Paste your code here
