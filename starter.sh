@@ -1,4 +1,4 @@
-FOLDER_NAME="Equilibrium Point"
+FOLDER_NAME="287. Find the Duplicate Number"
 
 cd Array+Strings && mkdir "$FOLDER_NAME" && cat > "$FOLDER_NAME/README.md" <<EOF
 # $FOLDER_NAME
