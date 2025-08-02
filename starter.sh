@@ -1,4 +1,4 @@
-FOLDER_NAME="287. Find the Duplicate Number"
+FOLDER_NAME="205. Isomorphic Strings"
 
 cd Array+Strings && mkdir "$FOLDER_NAME" && cat > "$FOLDER_NAME/README.md" <<EOF
 # $FOLDER_NAME
